@@ -1,0 +1,12 @@
+```
+TZ=Asia/Shanghai
+GITEA__database__DB_TYPE=mysql
+GITEA__database__HOST=db:3306
+GITEA__database__NAME=gitea
+GITEA__database__USER=gitea
+GITEA__database__PASSWD=gitea123
+MYSQL_ROOT_PASSWORD=root123
+MYSQL_DATABASE=gitea
+MYSQL_USER=gitea
+MYSQL_PASSWORD=gitea123
+```

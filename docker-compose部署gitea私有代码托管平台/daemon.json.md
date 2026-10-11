@@ -1,0 +1,9 @@
+```
+{
+  "registry-mirrors": [
+    "https://docker.m.daocloud.io",
+    "https://dockerproxy.com",
+    "https://docker.nju.edu.cn"
+  ]
+}
+```
